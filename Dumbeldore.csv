@@ -1,0 +1,68 @@
+﻿Speaker,Listener,Conversation
+DUMBLEDORE,,"Now we're all settled in and sorted, I'd like to make an announcement. This castle will not only be your home this year but home to some very special guests as well. You see Hogwarts has been choosen..."
+DUMBLEDORE,,"So Hogwarts has been choosen to host a legendary event. The Tri-Wizard tournament. Now for those of you who do not know, the tri-wizard tournament brings together three schools for a series of magical contests. From each school a single contestant is selected to compete. Now let me be clear, if choosen you stand alone. And trust me when I say these contests are not for the faint hearted, but more of that later. For now please join me in welcoming the lovely ladies of the Beauxbatons Academy of magic and their headmistress Madam Maxime."
+DUMBLEDORE,,"And now our friends from the north, please greet the proud sons of Durmstrang and the high master Igor Karkaroff."
+DUMBLEDORE,IGOR,Igor.
+DUMBLEDORE,MADAME MAXIME,"Not to worry Madame Maxime, our gamekeeper Hagrid's more than capable of seeing to them."
+DUMBLEDORE,CROWD,"Your attention please! I would like to say a few words. Eternal glory, that is what awaits the student who wins the tri-wizard tournament. But to do this that student must survive three tasks. Three extremely dangerous tasks."
+DUMBLEDORE,CROWD,For this reason the ministry has seen fit to impose a new rule. To explain all this we have the head of the department of international magic cooperation Mister Bartimus Crouch.
+DUMBLEDORE,BARTY,"My dear old friend, thanks for coming."
+DUMBLEDORE,CROWD,Silence!
+DUMBLEDORE,CROWD,"The goblet of fire. Anyone wishing to submit themselves for the tournament merely write their name upon a piece of parchment and throw it in the flame before this hour on Thursday night. Do not do so lightly, if choosen there's no turning back. As from this moment the tri-wizard tournament has begun."
+DUMBLEDORE,ALL,"Sit down please. And now the moment you've all been waiting for, the champions selection! The Durmstrang champion is ... Viktor Krum! The Durmstrang champion is ... Viktor Krum! The champion from Beauxbatons... Fleur Delacour The Hogwarts champion... Cedric Diggory. Excellent! we now have our three champions! But in the end only one will go down in history. Only one will hoist this chalice of champions, this vessel of victory the tri-wizard cup! Harry Potter. Harry Potter?"
+DUMBLEDORE,HARRY,Harry Potter!
+DUMBLEDORE,HARRY,Harry! Did you put your name in the goblet of fire?
+DUMBLEDORE,HARRY,Did you ask one of the older students to do it for you?
+DUMBLEDORE,HARRY,You're absolutely sure?
+DUMBLEDORE,BARTY,That doesn't help Alastor. Leave this to you Barty.
+DUMBLEDORE,MCGONAGALL,What do you suggest Minerva?
+DUMBLEDORE,MCGONAGALL,You heard Barty the rules are clear.
+DUMBLEDORE,SEVERUS,"I agree with Severus. Alastor, keep an eye on Harry will you?"
+DUMBLEDORE,MAD-EYE,"Don't let him know though, he must be anxious enough as it is... knowing what lies ahead. Then again, we all are."
+DUMBLEDORE,,"Good day champions. Gather round please. Now you've waited, you've wondered and at last the moment has arrived. The moment only four of you can fully appreciate."
+DUMBLEDORE,HERMIONE,What are you doing here Miss Granger?
+DUMBLEDORE,BARTY,Barty. The bag.
+DUMBLEDORE,CEDRIC,Very well. Good luck champions. Mr Diggory the sound of the cannon...
+DUMBLEDORE,,(VOICEOVER THE LOUDSPEAKER) Three of our champions have now faced their dragons and so each one of them will proceed to the next task. And now our fourth and final contestant.
+DUMBLEDORE,,"Welcome to the second task. Last night something was stolen from each of our champions. A treasure of sorts. These four treasures, one for each champion, now lie on the bottom of the black lake. In order to win each champion need only find their treasure and return to the surface. Simple enough. Except for this, they will have one hour to do so and one hour only. After that they'll be on their own."
+DUMBLEDORE,,You may begin at the start of the cannon.
+DUMBLEDORE,,The Beauxbatons champion Miss Delacour has unfortunately been forced to retire. She will take no further part in this task.
+DUMBLEDORE,HARRY,Harry!
+DUMBLEDORE,,I want all the judges over here now.
+DUMBLEDORE,,Attention! Attention! The winner is... Mr Diggory!
+DUMBLEDORE,,"For showing unique command of the bubblehead shark. The way I see it, Mr Potter would have finished first had it not been for his determination to rescue not only Mr Weasly but the others as well. We've agreed to award him second place! For outstanding moral fibre."
+DUMBLEDORE,FUDGE,"A man has died here. And he won't be the last, you must take action."
+DUMBLEDORE,FUDGE,Then for once show them some.
+DUMBLEDORE,FUDGE,"But surely that is what's right, no matter what others think."
+DUMBLEDORE,HARRY,"Oh not necessary Harry the minister and I are done. I'll be back in a moment. Minister, after you. Harry do feel free to indulge in a liquorice snack in my absence, but I have to warn you they're a little bit sharp."
+DUMBLEDORE,,is seated next to where Harry is.
+DUMBLEDORE,BARTY,The counsel is very much aware you have given evidence on this matter. Severus Snape was indeed a deatheater and prior to Lord Voldemort's downfall turned spy for us at great personal risk. Today he's no more a deatheater than I am.
+DUMBLEDORE,HARRY,"Curiosity's not a sin Harry, but you should exercise caution. It's a pensieve, useful if like me you find your mind a wee bit stretched. It allows me to see what small things I've already seen. You see Harry I've searched and searched for something, some small detail. Something I might have overlooked, something that would explain why these terrible things have happened. Every time I get close to an answer it slips away, it's maddedning."
+DUMBLEDORE,HARRY,"He was sent to Azkaban. Destroyed Barty to do it. But he had no choice, the evidence was overwhelming. Why do you ask?"
+DUMBLEDORE,HARRY,Have there been other dreams like this?
+DUMBLEDORE,HARRY,"I think it's unwise for you to linger over these dreams Harry, I think it's best that you simply..."
+DUMBLEDORE,HARRY,Cast them away.
+DUMBLEDORE,,Earlier today Professor Moody placed the tri-wizards cup deep within the maze. Only he knows its exact position. Now as Mr Diggory...
+DUMBLEDORE,,and Mr Potter tied for first position they will be the first to enter the maze. Followed by Mr Krum...
+DUMBLEDORE,,"The first person to touch the cup will be the winner. I've instructed the staff to patrol the perimeter, if at any point should a contestant wish to withdraw from the task he or she need only send up red sparks with their wands. Contestants, gather round."
+DUMBLEDORE,,"(To the contestants) In the maze you'll find not dragons or creatures of the deep. Instead you'll face something more challenging. You see, people change in the maze. Oh find the cup if you can, but be very weary you could just lose yourselves along the way."
+DUMBLEDORE,,On the count of three... ONE...
+DUMBLEDORE,HARRY,Harry! Harry!
+DUMBLEDORE,HARRY,Tell me what happened!
+DUMBLEDORE,HARRY,"It's alright Harry. It's alright, he's home, you both are."
+DUMBLEDORE,SEVERUS,Severus...
+DUMBLEDORE,SEVERUS,Do you know who I am?
+DUMBLEDORE,MAD-EYE,Are you Alastor Moody? Are ya?
+DUMBLEDORE,MAD-EYE,Is he in this room? Is he in this room?
+DUMBLEDORE,HARRY,Harry get away from there!
+DUMBLEDORE,ALASTOR,Are you alright Alastor?
+DUMBLEDORE,SEVERUS,Now we know who's been stealing it from your store Severus.
+DUMBLEDORE,,We'll get you up in a minute.
+DUMBLEDORE,BARTY JR,Barty Crouch Junior.
+DUMBLEDORE,HARRY,Your arm Harry.
+DUMBLEDORE,BARTY JR,"Send an owl to Azkaban, think they'll find they're missing a prisoner."
+DUMBLEDORE,BARTY JR,Perhaps. Personally I've never had much time for heroes.
+DUMBLEDORE,ALL,"Today we acknowledge a really terrible loss. Cedric Diggory was as you all know, exceptionally hard working, intricately fair minded. And most importantly a fierce fierce friend. I think therefore you have the right to know exactly how he died. You see, Cedric Diggory was murdered by Lord Voldemort. The ministry of magic does not wish me to tell you this. But not to do so I think would be an insult to his memory. Now the pain we all feel at this dreadful loss reminds me, reminds us that while we may come from different places and speak in different tongues, our hearts beat as one. In light of recent events the bonds of friendship we made this year will be more important than ever. Remember that and Cedric Diggory will not have died in vain, you remember that. And we'll celebrate a boy who was kind and honest and brave and true right to the very end."
+DUMBLEDORE,HARRY,"I never liked these curtains. Set them on fire in my fourth year, by accident of course. I put you in terrible danger this year Harry I'm sorry."
+DUMBLEDORE,HARRY,Priorium Contatum. You saw your parents that night didn't you? They reappeared.
+DUMBLEDORE,HARRY,"No spell can reawaken the dead Harry I trust you know that. Dark and diffiult times lie ahead. Soon we must all face the choice between what is right what is easy. But remember this, you have friends here. You're not alone."
